@@ -22,6 +22,9 @@
         <li>
             Ferramenta de Design Qt Design
         </li>
+        <li>
+            Módulo PyQt5
+        </li>
     </ul>
     <p>
     <li>
