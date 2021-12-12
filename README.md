@@ -10,7 +10,7 @@
     </ul>
     <p>
     <li>
-        TECNOLOGIAS EM ESTUDO
+        <strong>TECNOLOGIAS EM ESTUDO</strong>
     </li>
     <ul>
         <li>
@@ -25,7 +25,7 @@
     </ul>
     <p>
     <li>
-        IDE UTILIZADA
+        <strong>IDE UTILIZADA</strong>
     </li>
     <ul>
         <li>
