@@ -10,7 +10,7 @@
     </ul>
     <p>
     <li>
-        TECNOLOGIAS EM ESTUDO
+        <strong>TECNOLOGIAS EM ESTUDO</strong>
     </li>
     <ul>
         <li>
@@ -22,10 +22,13 @@
         <li>
             Ferramenta de Design Qt Design
         </li>
+        <li>
+            Módulo PyQt5
+        </li>
     </ul>
     <p>
     <li>
-        IDE UTILIZADA
+        <strong>IDE UTILIZADA</strong>
     </li>
     <ul>
         <li>
