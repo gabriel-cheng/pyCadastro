@@ -38,6 +38,6 @@
     <p>
     <h1>COMO FUNCIONA?</h1>
     <div>
-        O programa tem a função de cadastrar no Banco de Dados, dados que devem ser inseridos na interface do sistema de cadastro, sendo esses dados coisas como o <strong>código do produto</strong>, <strong>descrição do produto</strong> e o <strong>valor do produto</strong>. O sistema recebe estes dados, armazena no Banco de Dados e imprime no terminado da IDE os itens que foram inseridos eplo usuário.
+        O programa tem a função de cadastrar elementos no Banco de Dados, sendo esses elementos coisas como o <strong>código do produto</strong>, <strong>descrição do produto</strong> e o <strong>valor do produto</strong>. O sistema recebe estes dados, armazena no Banco de Dados e imprime no terminal da IDE os itens que foram inseridos pelo usuário.
     </div> 
 </ul>
