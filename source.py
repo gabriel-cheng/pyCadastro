@@ -1,4 +1,12 @@
 from PyQt5 import uic,QtWidgets
+import mysql.connector
+
+banco = mysql.connector.connect(
+    host="localhost",
+    user="root",
+    passwd="",
+    database="cadastros.sql"
+)
 
 def main():
     caixaCodigo = index.txtCodigo.text() # Recebe o valor do que foi digitado na caixa de texto de "código"
