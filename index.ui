@@ -17,7 +17,7 @@
    <string notr="true">background-color: rgb(0, 170, 0);</string>
   </property>
   <widget class="QWidget" name="centralwidget">
-   <widget class="QPushButton" name="pushButton">
+   <widget class="QPushButton" name="btnCadastrar">
     <property name="geometry">
      <rect>
       <x>90</x>
@@ -166,7 +166,7 @@ border-color: black;
      </font>
     </property>
     <property name="text">
-     <string>Preço</string>
+     <string>Valor</string>
     </property>
    </widget>
    <widget class="QLabel" name="label_5">
