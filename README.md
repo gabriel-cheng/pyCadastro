@@ -3,11 +3,9 @@
     <li>
         <strong>PROPÓSITO DESTE PROJETO</strong>
     </li>
-    <ul>
-        <li>
-            O propósito deste sistema nada mais é do que estudar sobre Banco de Dados desenvolvendo um pequeno sistema de cadastro utilizando o SQLite. Também será utilizado o módulo PyQt5 para desenvolver o código de manipulação da interface de cadastro, feita no Qt Design.
-        </li>
-    </ul>
+    <div>
+        O propósito deste sistema nada mais é do que estudar sobre Banco de Dados desenvolvendo um pequeno sistema de cadastro utilizando o SQLite. Também será utilizado o módulo PyQt5 para desenvolver o código de manipulação da interface de cadastro, feita no Qt Design.
+    </div>
     <p>
     <li>
         <strong>TECNOLOGIAS EM ESTUDO</strong>
