@@ -1,7 +1,7 @@
 <h1>SISTEMA DE CADASTRO PYCADASTRO</h1>
 <ul>
     <li>
-        <strong>SOBRE O SISTEMA</strong>
+        <strong>PROPÓSITO DESTE PROJETO</strong>
     </li>
     <ul>
         <li>
@@ -17,10 +17,10 @@
             Linguagem Python
         </li>
         <li>
-            Bando de Dados SQLite
+            Bando de Dados MariaDB
         </li>
         <li>
-            Ferramenta de Design Qt Design
+            Ferramenta de Design de interfaces Qt Design
         </li>
         <li>
             Módulo PyQt5
@@ -35,4 +35,8 @@
             Visual Studio Code (VSCode)
         </li>
     </ul>
+    <p>
+    <h1>COMO FUNCIONA?</h1>
+    <ul>
+    </ul> 
 </ul>
